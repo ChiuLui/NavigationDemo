@@ -1,4 +1,4 @@
-package com.chiului.testnavigation
+package com.chiului.navigationdemo
 
 import org.junit.Test
 

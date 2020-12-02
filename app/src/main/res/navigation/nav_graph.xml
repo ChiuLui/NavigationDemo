@@ -7,14 +7,14 @@
 
     <fragment
         android:id="@+id/firstFragment"
-        android:name="com.chiului.testnavigation.FirstFragment"
+        android:name="com.chiului.navigationdemo.FirstFragment"
         android:label="fragment_first"
         tools:layout="@layout/fragment_first" >
     </fragment>
 
     <fragment
         android:id="@+id/secondFragment"
-        android:name="com.chiului.testnavigation.SecondFragment"
+        android:name="com.chiului.navigationdemo.SecondFragment"
         android:label="fragment_second"
         tools:layout="@layout/fragment_second" >
         <action
@@ -34,7 +34,7 @@
 
     <fragment
         android:id="@+id/thirdFragment"
-        android:name="com.chiului.testnavigation.ThirdFragment"
+        android:name="com.chiului.navigationdemo.ThirdFragment"
         android:label="fragment_third"
         tools:layout="@layout/fragment_third" >
         <action
@@ -60,7 +60,7 @@
 
     <fragment
         android:id="@+id/fourthFragment"
-        android:name="com.chiului.testnavigation.FourthFragment"
+        android:name="com.chiului.navigationdemo.FourthFragment"
         android:label="fragment_fourth"
         tools:layout="@layout/fragment_fourth" >
         <action

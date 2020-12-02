@@ -1,4 +1,4 @@
-package com.chiului.testnavigation
+package com.chiului.navigationdemo
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel

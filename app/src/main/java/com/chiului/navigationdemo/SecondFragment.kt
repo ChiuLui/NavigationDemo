@@ -1,4 +1,4 @@
-package com.chiului.testnavigation
+package com.chiului.navigationdemo
 
 import android.os.Bundle
 import android.view.LayoutInflater
